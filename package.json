@@ -1,22 +1,22 @@
 {
   "name": "Bamazon",
   "version": "1.0.0",
-  "description": "Week 12 Homework for Coding Bootcamp at UCLA Extension",
+  "description": "Week 12 Homework for Coding Bootcamp at UCF Extension",
   "main": "bamazon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spencercharest/Bamazon.git"
+    "url": "git+https://github.com/taylor009/Bamazon"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spencercharest/Bamazon/issues"
+    "url": "https://github.com/taylor009/Bamazon/issues"
   },
-  "homepage": "https://github.com/spencercharest/Bamazon#readme",
+  "homepage": "https://github.com/taylor009/Bamazon/Bamazon#readme",
   "dependencies": {
     "cli-table": "^0.3.1",
     "inquirer": "^1.1.3",
